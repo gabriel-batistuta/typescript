@@ -266,3 +266,9 @@ class person {
 const sam = new person("Sam");
 
 console.log(sam)
+
+var nine:Number = 9
+
+if (nine<5*5) {
+    document.write("item menor");
+}
